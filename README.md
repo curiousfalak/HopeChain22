@@ -17,7 +17,7 @@
     <td>Donation Screen</td>
   </tr>
   <tr>
-    <td><img src="" height="400" alt="Home Screen"></td>
+    <td><img src="![WhatsApp Image 2024-11-10 at 23 18 49_617a900e](https://github.com/user-attachments/assets/d3fea8b6-5841-4e6e-b89b-e9d4dabf3a66)" height="400" alt="Home Screen"></td>
     <td><img src="screenshots/campaigns_list.png" height="400" alt="Campaigns List"></td>
     <td><img src="screenshots/donation_screen.png" height="400" alt="Donation Screen"></td>
   </tr>
