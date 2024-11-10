@@ -20,6 +20,8 @@ Blockchain Integration: Secure, immutable donation logging using Solana.
 Wallet Integration: Allow users to donate using SOL or lamports.
 Donation Tracking: End-to-end tracking from initial donation to final use.
 
+# Project Workflow with Wallet Integration (Future)
+![WhatsApp Image 2024-11-09 at 20 06 28_9cb214d4](https://github.com/user-attachments/assets/3d53923b-c769-45da-8c19-7a3131ae26f7)
 
 
  
