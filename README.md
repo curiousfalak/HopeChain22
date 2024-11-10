@@ -33,7 +33,7 @@ Donation Tracking: End-to-end tracking from initial donation to final use.
 
 ![WhatsApp Image 2024-11-10 at 23 18 49_98a9e162](https://github.com/user-attachments/assets/88b48d1e-2303-4391-9f0b-0bdb36f7d920)
 
-![WhatsApp Image 2024-11-10 at 23 18 49_4e9f83ae](https://github.com/user-attachments/assets/6b5c6c32-42e6-470a-8a70-b91d5a2eddb4)
+
 
 ![WhatsApp Image 2024-11-10 at 23 18 49_eee355bb](https://github.com/user-attachments/assets/4b7b17bb-04b9-4d24-ae6f-eea8330a9061)
 
