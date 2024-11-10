@@ -9,8 +9,19 @@
 
 
  #  Project Screenshots:
+ 
+<table>
+  <tr>
+    <td>Home Screen</td>
+    <td>Campaigns List</td>
+    <td>Donation Screen</td>
+  </tr>
+  <tr>
+    <td><img src="" height="400" alt="Home Screen"></td>
+    <td><img src="screenshots/campaigns_list.png" height="400" alt="Campaigns List"></td>
+    <td><img src="screenshots/donation_screen.png" height="400" alt="Donation Screen"></td>
+  </tr>
+</table>
 
 
  
-
-![WhatsApp Image 2024-11-10 at 23 18 49_617a900e](https://github.com/user-attachments/assets/1f54fc06-c929-4105-b023-c7e0b10e86ae)
